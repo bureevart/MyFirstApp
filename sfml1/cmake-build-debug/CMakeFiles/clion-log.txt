@@ -1,0 +1,5 @@
+"Z:\Apps\Clion\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=Z:/Apps/Clion/CLion 2021.3.3/bin/ninja/win/ninja.exe" -G Ninja Z:\javaProjects\ClionProjects\sfml1
+-- Found SFML 2.5.1 in Z:/javaProjects/ClionProjects/lib/sfml/GCC 7.3.0 MinGW (SEH) - 64-bit/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: Z:/javaProjects/ClionProjects/sfml1/cmake-build-debug
